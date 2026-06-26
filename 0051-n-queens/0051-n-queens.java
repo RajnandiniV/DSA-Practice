@@ -9,14 +9,19 @@ class Solution {
         Arrays.fill(board[i],'.');
     }
 
-    solve(0,board,ans);
+    int[] left = new int[n];
+    int[] lowerdiagonal = new int[2*n-1];
+     int[] upperdiagonal = new int[2*n-1];
+   
+
+    solve(0,board,ans,left,lowerdiagonal,upperdiagonal);
     return ans;
         
     }
-    public void solve(int row,char[][]board,List<List<String>> ans){
+    public void solve(int col,char[][]board,List<List<String>> ans,int[] l,int[] ld,int[] ud){
             int n = board.length;
 
-    if(row == n){
+    if(col == n){
         
          List<String> temp = new ArrayList<>();
 
@@ -28,53 +33,27 @@ class Solution {
          return;
     }
 
-    for(int col =0;col<n;col++){
-          
-          if(isSafe(row,col,board)){
+    for(int row =0;row<n;row++){
+
+        if(l[row]==0 && ld[row+col]==0 && ud[n-1+col-row]==0){
 
             board[row][col]='Q';
+            l[row]=1;
+            ld[row+col]=1;
+            ud[n-1+col-row]=1;
 
-            solve(row+1,board,ans);
+        solve(col+1,board,ans,l,ld,ud);
+        board[row][col]='.';
 
-            board[row][col]='.';
-          }
-
-    }
-    }
-
-    public boolean isSafe(int rows,int col,char[][] board){
-
-        int n = board.length;
-        //upper col
-
-        for(int i = rows-1;i>=0;i--){
-            if(board[i][col]=='Q'){
-                return false;
-            }
+       l[row]=0;
+       ld[row+col]=0;
+       ud[n-1+col-row]=0;
 
         }
-        //upper left dia
-        for(int i =rows-1,j=col-1;
-         i>=0 &&j>=0;i--,j--){
-
-            if(board[i][j]=='Q'){
-                return false;
-            }
-
-         }
-         //upper right
-         for(int i =rows-1,j=col+1;
-         i>=0 &&j<n;i--,j++){
-
-            if(board[i][j]=='Q'){
-                return false;
-            }
-
-         }
-         return true;
-
+          
+          
     }
-
-            
-
     }
+}
+
+    
