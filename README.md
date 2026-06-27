@@ -35,4 +35,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/RajnandiniV/DSA-Practice/tree/master/0079-word-search) |
+## Hash Table
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/RajnandiniV/DSA-Practice/tree/master/0202-happy-number) |
+## Math
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/RajnandiniV/DSA-Practice/tree/master/0202-happy-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/RajnandiniV/DSA-Practice/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
