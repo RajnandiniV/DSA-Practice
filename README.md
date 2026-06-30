@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0142-linked-list-cycle-ii](https://github.com/RajnandiniV/DSA-Practice/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/RajnandiniV/DSA-Practice/tree/master/0202-happy-number) |
 ## Math
 |  |
@@ -48,9 +49,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/RajnandiniV/DSA-Practice/tree/master/0075-sort-colors) |
+| [0142-linked-list-cycle-ii](https://github.com/RajnandiniV/DSA-Practice/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/RajnandiniV/DSA-Practice/tree/master/0202-happy-number) |
 ## Sorting
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/RajnandiniV/DSA-Practice/tree/master/0075-sort-colors) |
+## Linked List
+|  |
+| ------- |
+| [0142-linked-list-cycle-ii](https://github.com/RajnandiniV/DSA-Practice/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->
