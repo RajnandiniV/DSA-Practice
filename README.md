@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/RajnandiniV/DSA-Practice/tree/master/0079-word-search) |
+| [0205-isomorphic-strings](https://github.com/RajnandiniV/DSA-Practice/tree/master/0205-isomorphic-strings) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/RajnandiniV/DSA-Practice/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/RajnandiniV/DSA-Practice/tree/master/0202-happy-number) |
+| [0205-isomorphic-strings](https://github.com/RajnandiniV/DSA-Practice/tree/master/0205-isomorphic-strings) |
 ## Math
 |  |
 | ------- |
