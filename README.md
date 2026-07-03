@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/RajnandiniV/DSA-Practice/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0075-sort-colors](https://github.com/RajnandiniV/DSA-Practice/tree/master/0075-sort-colors) |
 | [0142-linked-list-cycle-ii](https://github.com/RajnandiniV/DSA-Practice/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/RajnandiniV/DSA-Practice/tree/master/0202-happy-number) |
@@ -63,5 +64,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/RajnandiniV/DSA-Practice/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0142-linked-list-cycle-ii](https://github.com/RajnandiniV/DSA-Practice/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->
