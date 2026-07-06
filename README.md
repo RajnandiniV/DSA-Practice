@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/RajnandiniV/DSA-Practice/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/RajnandiniV/DSA-Practice/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/RajnandiniV/DSA-Practice/tree/master/0090-subsets-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/RajnandiniV/DSA-Practice/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/RajnandiniV/DSA-Practice/tree/master/0217-contains-duplicate) |
 ## Backtracking
 |  |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/RajnandiniV/DSA-Practice/tree/master/0128-longest-consecutive-sequence) |
 | [0142-linked-list-cycle-ii](https://github.com/RajnandiniV/DSA-Practice/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/RajnandiniV/DSA-Practice/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/RajnandiniV/DSA-Practice/tree/master/0205-isomorphic-strings) |
@@ -83,4 +85,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0143-reorder-list](https://github.com/RajnandiniV/DSA-Practice/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/RajnandiniV/DSA-Practice/tree/master/0234-palindrome-linked-list) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/RajnandiniV/DSA-Practice/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
