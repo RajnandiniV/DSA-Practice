@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0079-word-search](https://github.com/RajnandiniV/DSA-Practice/tree/master/0079-word-search) |
 | [0205-isomorphic-strings](https://github.com/RajnandiniV/DSA-Practice/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/RajnandiniV/DSA-Practice/tree/master/0242-valid-anagram) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/RajnandiniV/DSA-Practice/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/RajnandiniV/DSA-Practice/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/RajnandiniV/DSA-Practice/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/RajnandiniV/DSA-Practice/tree/master/0242-valid-anagram) |
 ## Math
 |  |
 | ------- |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/RajnandiniV/DSA-Practice/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/RajnandiniV/DSA-Practice/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/RajnandiniV/DSA-Practice/tree/master/0242-valid-anagram) |
 ## Linked List
 |  |
 | ------- |
