@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/RajnandiniV/DSA-Practice/tree/master/0012-integer-to-roman) |
 | [0049-group-anagrams](https://github.com/RajnandiniV/DSA-Practice/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/RajnandiniV/DSA-Practice/tree/master/0079-word-search) |
 | [0205-isomorphic-strings](https://github.com/RajnandiniV/DSA-Practice/tree/master/0205-isomorphic-strings) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/RajnandiniV/DSA-Practice/tree/master/0001-two-sum) |
+| [0012-integer-to-roman](https://github.com/RajnandiniV/DSA-Practice/tree/master/0012-integer-to-roman) |
 | [0049-group-anagrams](https://github.com/RajnandiniV/DSA-Practice/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/RajnandiniV/DSA-Practice/tree/master/0128-longest-consecutive-sequence) |
 | [0142-linked-list-cycle-ii](https://github.com/RajnandiniV/DSA-Practice/tree/master/0142-linked-list-cycle-ii) |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/RajnandiniV/DSA-Practice/tree/master/0002-add-two-numbers) |
+| [0012-integer-to-roman](https://github.com/RajnandiniV/DSA-Practice/tree/master/0012-integer-to-roman) |
 | [0202-happy-number](https://github.com/RajnandiniV/DSA-Practice/tree/master/0202-happy-number) |
 ## Two Pointers
 |  |
