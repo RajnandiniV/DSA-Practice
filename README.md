@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/RajnandiniV/DSA-Practice/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/RajnandiniV/DSA-Practice/tree/master/0015-3sum) |
 | [0039-combination-sum](https://github.com/RajnandiniV/DSA-Practice/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/RajnandiniV/DSA-Practice/tree/master/0040-combination-sum-ii) |
 | [0049-group-anagrams](https://github.com/RajnandiniV/DSA-Practice/tree/master/0049-group-anagrams) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/RajnandiniV/DSA-Practice/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/RajnandiniV/DSA-Practice/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0075-sort-colors](https://github.com/RajnandiniV/DSA-Practice/tree/master/0075-sort-colors) |
 | [0142-linked-list-cycle-ii](https://github.com/RajnandiniV/DSA-Practice/tree/master/0142-linked-list-cycle-ii) |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/RajnandiniV/DSA-Practice/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/RajnandiniV/DSA-Practice/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/RajnandiniV/DSA-Practice/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/RajnandiniV/DSA-Practice/tree/master/0217-contains-duplicate) |
