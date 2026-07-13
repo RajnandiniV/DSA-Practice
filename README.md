@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/RajnandiniV/DSA-Practice/tree/master/0079-word-search) |
 | [0205-isomorphic-strings](https://github.com/RajnandiniV/DSA-Practice/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/RajnandiniV/DSA-Practice/tree/master/0242-valid-anagram) |
+| [0424-longest-repeating-character-replacement](https://github.com/RajnandiniV/DSA-Practice/tree/master/0424-longest-repeating-character-replacement) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/RajnandiniV/DSA-Practice/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/RajnandiniV/DSA-Practice/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/RajnandiniV/DSA-Practice/tree/master/0242-valid-anagram) |
+| [0424-longest-repeating-character-replacement](https://github.com/RajnandiniV/DSA-Practice/tree/master/0424-longest-repeating-character-replacement) |
 ## Math
 |  |
 | ------- |
@@ -109,4 +111,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/RajnandiniV/DSA-Practice/tree/master/0128-longest-consecutive-sequence) |
+## Sliding Window
+|  |
+| ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/RajnandiniV/DSA-Practice/tree/master/0424-longest-repeating-character-replacement) |
 <!---LeetCode Topics End-->
