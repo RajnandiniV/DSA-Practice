@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/RajnandiniV/DSA-Practice/tree/master/0012-integer-to-roman) |
 | [0049-group-anagrams](https://github.com/RajnandiniV/DSA-Practice/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/RajnandiniV/DSA-Practice/tree/master/0079-word-search) |
+| [0125-valid-palindrome](https://github.com/RajnandiniV/DSA-Practice/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/RajnandiniV/DSA-Practice/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/RajnandiniV/DSA-Practice/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/RajnandiniV/DSA-Practice/tree/master/0424-longest-repeating-character-replacement) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/RajnandiniV/DSA-Practice/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0042-trapping-rain-water](https://github.com/RajnandiniV/DSA-Practice/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/RajnandiniV/DSA-Practice/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/RajnandiniV/DSA-Practice/tree/master/0125-valid-palindrome) |
 | [0142-linked-list-cycle-ii](https://github.com/RajnandiniV/DSA-Practice/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/RajnandiniV/DSA-Practice/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RajnandiniV/DSA-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
