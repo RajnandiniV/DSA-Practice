@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0079-word-search](https://github.com/RajnandiniV/DSA-Practice/tree/master/0079-word-search) |
 | [0100-same-tree](https://github.com/RajnandiniV/DSA-Practice/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/RajnandiniV/DSA-Practice/tree/master/0101-symmetric-tree) |
 | [0572-subtree-of-another-tree](https://github.com/RajnandiniV/DSA-Practice/tree/master/0572-subtree-of-another-tree) |
 ## Matrix
 |  |
@@ -149,15 +150,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/RajnandiniV/DSA-Practice/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/RajnandiniV/DSA-Practice/tree/master/0101-symmetric-tree) |
 | [0572-subtree-of-another-tree](https://github.com/RajnandiniV/DSA-Practice/tree/master/0572-subtree-of-another-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/RajnandiniV/DSA-Practice/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/RajnandiniV/DSA-Practice/tree/master/0101-symmetric-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/RajnandiniV/DSA-Practice/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/RajnandiniV/DSA-Practice/tree/master/0101-symmetric-tree) |
 | [0572-subtree-of-another-tree](https://github.com/RajnandiniV/DSA-Practice/tree/master/0572-subtree-of-another-tree) |
 ## String Matching
 |  |
