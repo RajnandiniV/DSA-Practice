@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/RajnandiniV/DSA-Practice/tree/master/0090-subsets-ii) |
+| [0476-number-complement](https://github.com/RajnandiniV/DSA-Practice/tree/master/0476-number-complement) |
 ## String
 |  |
 | ------- |
