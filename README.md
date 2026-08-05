@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/RajnandiniV/DSA-Practice/tree/master/0090-subsets-ii) |
+| [0191-number-of-1-bits](https://github.com/RajnandiniV/DSA-Practice/tree/master/0191-number-of-1-bits) |
 | [0476-number-complement](https://github.com/RajnandiniV/DSA-Practice/tree/master/0476-number-complement) |
 ## String
 |  |
@@ -190,4 +191,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/RajnandiniV/DSA-Practice/tree/master/0572-subtree-of-another-tree) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/RajnandiniV/DSA-Practice/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
