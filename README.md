@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RajnandiniV/DSA-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/RajnandiniV/DSA-Practice/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/RajnandiniV/DSA-Practice/tree/master/0217-contains-duplicate) |
+| [0994-rotting-oranges](https://github.com/RajnandiniV/DSA-Practice/tree/master/0994-rotting-oranges) |
 ## Backtracking
 |  |
 | ------- |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/RajnandiniV/DSA-Practice/tree/master/0079-word-search) |
+| [0994-rotting-oranges](https://github.com/RajnandiniV/DSA-Practice/tree/master/0994-rotting-oranges) |
 ## Hash Table
 |  |
 | ------- |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/RajnandiniV/DSA-Practice/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/RajnandiniV/DSA-Practice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/RajnandiniV/DSA-Practice/tree/master/0226-invert-binary-tree) |
+| [0994-rotting-oranges](https://github.com/RajnandiniV/DSA-Practice/tree/master/0994-rotting-oranges) |
 ## Binary Tree
 |  |
 | ------- |
