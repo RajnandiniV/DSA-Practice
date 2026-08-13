@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/RajnandiniV/DSA-Practice/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/RajnandiniV/DSA-Practice/tree/master/0217-contains-duplicate) |
 | [0994-rotting-oranges](https://github.com/RajnandiniV/DSA-Practice/tree/master/0994-rotting-oranges) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/RajnandiniV/DSA-Practice/tree/master/2213-longest-substring-of-one-repeating-character) |
 ## Backtracking
 |  |
 | ------- |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/RajnandiniV/DSA-Practice/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/RajnandiniV/DSA-Practice/tree/master/0424-longest-repeating-character-replacement) |
 | [1108-defanging-an-ip-address](https://github.com/RajnandiniV/DSA-Practice/tree/master/1108-defanging-an-ip-address) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/RajnandiniV/DSA-Practice/tree/master/2213-longest-substring-of-one-repeating-character) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -198,4 +200,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/RajnandiniV/DSA-Practice/tree/master/0191-number-of-1-bits) |
+## Segment Tree
+|  |
+| ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/RajnandiniV/DSA-Practice/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Ordered Set
+|  |
+| ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/RajnandiniV/DSA-Practice/tree/master/2213-longest-substring-of-one-repeating-character) |
 <!---LeetCode Topics End-->
